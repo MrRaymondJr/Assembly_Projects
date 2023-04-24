@@ -1,9 +1,5 @@
 /*---------------------------------------------------------------
-		Name:		Raymond Magdaleno
-		Assignment:	4 Question 1
-		Due Date:	1/13/2020
-
-		Purpose:	Find the age and gender of the user.
+Purpose: Find the age and gender of the user.
 ---------------------------------------------------------------*/
 #include <iostream>
 #include <string>
