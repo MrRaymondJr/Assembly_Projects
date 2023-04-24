@@ -1,9 +1,5 @@
 /*--------------------------------------------------------------------
-		Name:		Raymond Magdaleno
-		Assignment:	5 Question 5
-		Due Date:	1/16/2020
-
-		Purpose:	Practice addition with two random integers <100.
+Purpose: Practice addition with two random integers <100.
 --------------------------------------------------------------------*/
 #include <iostream>
 #include <ctime>
