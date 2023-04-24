@@ -1,13 +1,9 @@
 /*-------------------------------------------------------------------------------
-		Name:		Raymond Maagdaleno
-		Assignmnet:	#a1-a4.
-		Due Date:	Thurs. 1/9/2020
-
-		Purpose:
-			a1. Find area and perimeter of a rectangle with user input values.
-			a2. Calculate a bill with different quantities of items.
-			a3. Find the sum of digits of a three digit integer.
-			a4. Convert Fahrenheit to Celsius.
+Purpose:
+	a1. Find area and perimeter of a rectangle with user input values.
+	a2. Calculate a bill with different quantities of items.
+	a3. Find the sum of digits of a three digit integer.
+	a4. Convert Fahrenheit to Celsius.
 -------------------------------------------------------------------------------*/
 #include <iostream>
 using namespace std;
