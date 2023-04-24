@@ -1,10 +1,5 @@
 /*--------------------------------------------------------------------
-		Name:		Raymond Magdaleno
-		Assignment:	3 Question 1
-		Due Date:	1/16/2020
-
-		Purpose:	Solve a system of 2 equations wth two unkowns
-					  X and Y using Cramer's rule.
+Purpose:	Solve a system of 2 equations wth two unkowns X and Y using Cramer's rule.
 --------------------------------------------------------------------*/
 #include <iostream>
 using namespace std;
