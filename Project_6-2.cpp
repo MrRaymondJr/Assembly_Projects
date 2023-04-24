@@ -1,10 +1,5 @@
 /*----------------------------------------------------------------------
-		Name:		Raymond Magdaleno
-		Assignment:	6 Question 2
-		Due Date:	1/23/2020
-
-		Purpose:	Determine whether user inputed integers are either
-					  even or odd without division.
+Purpose:	Determine whether user inputed integers are either even or odd without division.
 ----------------------------------------------------------------------*/
 #include <iostream>
 using namespace std;
