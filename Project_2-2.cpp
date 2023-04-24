@@ -1,12 +1,7 @@
 /*-------------------------------------------------------------------------------
-		Name:		Raymond Maagdaleno
-		Assignmnet:	#b1. & b2.
-		Due Date:	Thurs. 1/9/2020
-
-		Purpose:
-			b1. Find the perimeter and area of a trapezoid with user inputted
-				   values.
-			b2. Convert Celsius to Fahrenheit.
+Purpose:
+	b1. Find the perimeter and area of a trapezoid with user inputted values.
+	b2. Convert Celsius to Fahrenheit.
 -------------------------------------------------------------------------------*/
 #include <iostream>
 using namespace std;
