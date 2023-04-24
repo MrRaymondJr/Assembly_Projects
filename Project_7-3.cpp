@@ -1,11 +1,5 @@
 /*------------------------------------------------------------------------
-		Name:		Raymond Magdaleno
-		Assignment:	7, Question 3
-		Due Date:	1/21/2020
-
-		Purpose:	Display the content of AX at base 2 and use Ax
-					  register to determine at which floors the
-					  elevator will stop.
+Purpose: Display the content of AX at base 2 and use Ax register to determine at which floors the elevator will stop.
 ------------------------------------------------------------------------*/
 #include <iostream>
 #include <ctime>
