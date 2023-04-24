@@ -1,10 +1,5 @@
 /*--------------------------------------------------------------------
-		Name:		Raymond Magdaleno
-		Assignment:	5 Question 2
-		Due Date:	1/14/2020
-
-		Purpose:	Count the number of A's,B's,C's' and D's
-					  from a user inputed 10 length string.
+Purpose: Count the number of A's,B's,C's' and D's from a user inputed 10 length string.
 --------------------------------------------------------------------*/
 #include <iostream>
 using namespace std;
