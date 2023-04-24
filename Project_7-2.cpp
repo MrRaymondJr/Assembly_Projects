@@ -1,11 +1,8 @@
 /*------------------------------------------------------------------------
-		Name:		Raymond Magdaleno
-		Assignment:	7, Question 2
-		Due Date:	1/21/2020
-
-		Purpose:	a) Display Ax in binary
-					b) Display # of sprinklers on
-					c) Diplay each sprinkler # that is defective
+Purpose:	
+	a) Display Ax in binary
+	b) Display # of sprinklers on
+	c) Diplay each sprinkler # that is defective
 ------------------------------------------------------------------------*/
 #include <iostream>
 using namespace std;
