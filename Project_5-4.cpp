@@ -1,9 +1,5 @@
 /*--------------------------------------------------------------------
-		Name:		Raymond Magdaleno
-		Assignment:	5 Question 4
-		Due Date:	1/14/2020
-
-		Purpose:	Find the average, max, and min of scores.
+Purpose: Find the average, max, and min of scores.
 --------------------------------------------------------------------*/
 #include <iostream>
 using namespace std;
