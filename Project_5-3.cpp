@@ -1,9 +1,5 @@
 /*--------------------------------------------------------------------
-		Name:		Raymond Magdaleno
-		Assignment:	5 Question 3
-		Due Date:	1/14/2020
-
-		Purpose:	Count the number of Yes/No votes in a string.
+Purpose: Count the number of Yes/No votes in a string.
 --------------------------------------------------------------------*/
 #include <iostream>
 using namespace std;
