@@ -1,10 +1,5 @@
 /*-------------------------------------------------------------------------------
-		Name:		Raymond Maagdaleno
-		Assignmnet:	#1, Question 6
-		Due Date:	Thurs. 1/9/2020
-
-		Purpose: Calculate the perimeter and area of a rectangle and triangle
-		         using user inputed values.
+Purpose: Calculate the perimeter and area of a rectangle and triangle using user inputed values.
 -------------------------------------------------------------------------------*/
 #include <iostream>
 using namespace std;
