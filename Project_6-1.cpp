@@ -1,10 +1,5 @@
 /*----------------------------------------------------------------------
-		Name:		Raymond Magdaleno
-		Assignment:	6 Question 1
-		Due Date:	1/23/2020
-
-		Purpose:	Write an assem program to display information the
-					  AX register will hold if an interrupt occurred.
+Purpose:	Write an assem program to display information the AX register will hold if an interrupt occurred.
 ----------------------------------------------------------------------*/
 #include <iostream>
 using namespace std;
