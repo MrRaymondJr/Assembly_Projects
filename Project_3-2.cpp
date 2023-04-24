@@ -1,11 +1,5 @@
 /*---------------------------------------------------------------
-		Name:		Raymond Magdaleno
-		Assignment:	3 Question 2
-		Due Date:	1/16/2020
-
-		Purpose:	Complete a 7-11 transaction. # of drinks &
-					  sandwiches, drink type, and sandwich
-					  size. Then calculate the bill.
+Purpose: Complete a 7-11 transaction: # of drinks & sandwiches, drink type, and sandwich size. Then calculate the bill.
 ---------------------------------------------------------------*/
 #include <iostream>
 using namespace std;
