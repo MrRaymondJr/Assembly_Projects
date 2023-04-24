@@ -1,10 +1,5 @@
 /*---------------------------------------------------------------
-		Name:		Raymond Magdaleno
-		Assignment:	4 Question 2
-		Due Date:	1/13/2020
-
-		Purpose:	Determine wheter a read integer
-					  is ODD or EVEN.
+Purpose:	Determine wheter a read integer is ODD or EVEN.
 ---------------------------------------------------------------*/
 #include <iostream>
 #include <string>
