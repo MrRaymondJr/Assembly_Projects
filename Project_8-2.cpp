@@ -1,10 +1,5 @@
 /*----------------------------------------------------------------------------
-		Name:		Raymond Magdaleno
-		Assignment:	8, Question 2
-		Due Date:	1/30/2020
-
-		Purpose:	Compute & display the total # of all shirts, X-Large
-					  shirts, and green shirts from data stored in a[4][4].
+Purpose: Compute & display the total # of all shirts, X-Large shirts, and green shirts from data stored in a[4][4].
 ----------------------------------------------------------------------------*/
 #include <iostream>
 using namespace std;
