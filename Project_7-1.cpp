@@ -1,9 +1,5 @@
 /*------------------------------------------------------------------------
-		Name:		Raymond Magdaleno
-		Assignment:	7, Question 1
-		Due Date:	1/21/2020
-
-		Purpose:	Read a sentence, and output it with reverse casing.
+Purpose: Read a sentence, and output it with reverse casing.
 ------------------------------------------------------------------------*/
 #include <iostream>
 using namespace std;
