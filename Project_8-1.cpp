@@ -1,9 +1,5 @@
 /*----------------------------------------------------------------------
-		Name:		Raymond Magdaleno
-		Assignment:	8, Question 1
-		Due Date:	1/30/2020
-
-		Purpose:	Display the total, max, and min data in array a.
+Purpose: Display the total, max, and min data in array a.
 ----------------------------------------------------------------------*/
 #include <iostream>
 using namespace std;
