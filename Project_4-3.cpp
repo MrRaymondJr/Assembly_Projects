@@ -1,10 +1,5 @@
 /*---------------------------------------------------------------
-		Name:		Raymond Magdaleno
-		Assignment:	4 Question 3
-		Due Date:	1/16/2020
-
-		Purpose:	Read a number & determine whether it is
-					  divisible by 3 or not.
+Purpose:	Read a number & determine whether it is divisible by 3 or not.
 ---------------------------------------------------------------*/
 #include <iostream>
 #include <string>
