@@ -1,9 +1,5 @@
 /*--------------------------------------------------------------------
-		Name:		Raymond Magdaleno
-		Assignment:	5 Question 1
-		Due Date:	1/16/2020
-
-		Purpose:	Find the cost of a Fitness membership
+Purpose: Find the cost of a Fitness membership
 --------------------------------------------------------------------*/
 #include <iostream>
 #include <string>
